@@ -4,3 +4,4 @@ guild.zx update
 y
 u
 j
+g
