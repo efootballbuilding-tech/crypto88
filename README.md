@@ -1,9 +1,10 @@
 # crypto88
 Created by VoltPlayground
-guild.zx update 
+1guild.zx update 
 y
 u
 j
 g
 g
 g
+i
